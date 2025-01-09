@@ -1,7 +1,7 @@
 # MintMarine NFT Marketplace
 
 <p align="center">
-<img src="/assets/highlight.png" alt="MintMarine Hero" width="1080"/>
+<img src="2-landing-page/mintmarine/src/assets/highlight.png" alt="MintMarine Hero" width="1080"/>
 </p>
 
 A comprehensive NFT marketplace ecosystem featuring a responsive landing page and a full-featured mobile application. Create, buy, sell, and collect NFTs in an intuitive underwater-themed environment.
