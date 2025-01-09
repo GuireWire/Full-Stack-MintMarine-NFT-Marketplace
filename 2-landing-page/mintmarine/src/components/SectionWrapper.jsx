@@ -26,7 +26,7 @@ const SectionWrapper = ({ title, description, showBtn, mockupImg, mockupVideo, c
           {showBtn && (
             <Button
               assetUrl={assets.expo}
-              link="https://expo.dev/@guirewire/"
+              link="https://github.com/GuireWire/Full-Stack-MintMarine-NFT-Marketplace/blob/master/application-2ab37d0c-7923-4d4b-8164-e40e86d02eb2.aab"
             />
           )}
         </div>

@@ -6,7 +6,9 @@
 
 A comprehensive NFT marketplace ecosystem featuring a responsive landing page and a full-featured mobile application. Create, buy, sell, and collect NFTs in an intuitive underwater-themed environment.
 
-🌐 **Live Site**: [mintables.u](https://mintables.u/)
+🌐 **Live Site**: [mintmarine.xyz](https://mintmarine.xyz/)
+</br>
+🌐 **IPFS Hash**: [bafybeiggfeg7umvyekpoba4wz4o5hfv762iayvlwmnynkwfmtmi6vjzwkq](https://flk-ipfs.xyz/ipfs/bafybeiggfeg7umvyekpoba4wz4o5hfv762iayvlwmnynkwfmtmi6vjzwkq)
 
 ## Project Structure
 
