@@ -20,7 +20,7 @@ This repository contains two main components:
 ## Tech Stack
 
 ### Landing Page
-- **Framework**: React 18
+- **Framework**: Vite - React Framework
 - **Styling**: Tailwind CSS
 - **Features**:
   - Responsive design
