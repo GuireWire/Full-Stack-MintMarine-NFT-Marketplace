@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "MintMarine | The Largest NFT Digital Reef",
+    "slug": "mintmarine",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.guirewire.mintmarine"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/logoweb.png",
+        "backgroundColor": "#2b2d42"
+      },
+      "package": "com.guirewire.mintmarine",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "80ff2927-e01f-4141-bfa6-406f15b1adea"
+      }
+    },
+    "owner": "guirewire",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/80ff2927-e01f-4141-bfa6-406f15b1adea"
+    }
+  }
+}
